@@ -8,6 +8,8 @@
 #include <thread>
 #include <chrono>
 #include <openssl/sha.h>
+#include <vector>
+#include <algorithm>
 
 namespace fs = std::filesystem;
 
